@@ -8,8 +8,8 @@ Simple NodeJS Server
 4. npm start
 Open http://localhost:5000 and take look around.
 ## Libraries, npm packages and third party-party plug-ins:
-*babel
-*express
-*body-parser
-*helmet
-*webpack
+* babel
+* express
+* body-parser
+* helmet
+* webpack
